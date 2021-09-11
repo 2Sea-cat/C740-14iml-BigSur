@@ -21,7 +21,7 @@ C740 specs:
 
 - Accelerated graphics
 - Audio codec
-- Keyboard
+- Keyboard with brightness control and volume control
 - intel energy prophile
 - all ports, but it is using the hacky way with USB-injectall (haven't mapped all the USBs)
 - SDST's (however I suspect they may be more customs to make the trackpad work)
@@ -34,3 +34,11 @@ C740 specs:
 - Haven't tried encription security
 - intel wifi is not working to max speed, but the fact that it is working nicely is pretty impressive
 - Log-in chime
+
+## Installation
+
+usb2.0 with full install rom on APFS
+Mono boot
+note that the intel UHD appears with no number on model and description page, but we have 620 for plist related affairs
+
+
