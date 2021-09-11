@@ -36,9 +36,7 @@ C740 specs:
 - Log-in chime
 
 ## Installation
-
--usb2.0 with full install rom on APFS
--Mono boot
--note that the intel UHD appears with no number on model and description page, but we have 620 for plist related affairs
-
-
+- usb2.0 with full install rom on APFS
+- Mono boot
+- note that the intel UHD appears with no number on model and description page, but we have 620 for plist related affairs
+- make sure you use ProperTree.py to update the plist with ctrl+r before deploying to make sure the pathings are ok 
