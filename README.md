@@ -37,8 +37,8 @@ C740 specs:
 
 ## Installation
 
-usb2.0 with full install rom on APFS
-Mono boot
-note that the intel UHD appears with no number on model and description page, but we have 620 for plist related affairs
+-usb2.0 with full install rom on APFS
+-Mono boot
+-note that the intel UHD appears with no number on model and description page, but we have 620 for plist related affairs
 
 
