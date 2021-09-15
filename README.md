@@ -23,8 +23,9 @@ C740 specs:
 - Audio codec
 - Keyboard with brightness control and volume control
 - intel energy prophile
-- all ports, but it is using the hacky way with USB-injectall (haven't mapped all the USBs)
+- mapped usb ports, but I'm not sure if they are correct as I can't try them all
 - SDST's (however I suspect they may be more customs to make the trackpad work)
+- HDMI output trough usb-c (display port output) (turns out we need a smbios without egpu)
 
 ## What **isn't** working
 - Trackpad
