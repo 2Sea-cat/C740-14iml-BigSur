@@ -4,7 +4,7 @@
 This EFI guide was based on Dortania use of Opencore
 
 The versions used are Opencore 0.7.2
-Big sur install on 11.5.2
+Big sur install on 11.6 (update from 11.5.2 went without issue)
 
 C740 specs:
 1. i7-10710U 4.60 ghz 12mb cache 
